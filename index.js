@@ -7,6 +7,8 @@ function findHcfByequilideanMethod(a,b) {
         b=rem
     }
     return a
+    //jdcnkjdckjd
+    x=y+x
 
 }
 
